@@ -1,2 +1,2 @@
-# Empathetic-Dialogue-Generation
+# Heartificial Mind
 The main aim is to implement a human-like dialogue generation model in consideration of communicational aspects like empathy
